@@ -1,3 +1,5 @@
+## **:exclamation: This repo has been retired, as it's now maintained by IT-For-Starters**
+
 # Engineer Collector
 There seem to be multiple collection programs and scripts that engineers can use to gather information about a client's machine. However, these are either unnecessarily complicated, hidden, fixed (can't be customised) or cost human money. This is just my way of gathering lots of info of a client machine in a quick and easy program that engineers can run themselves, or that they can distribute to end users to run and send the results of.
 
